@@ -70,16 +70,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <None Include="cust_sch.xsc">
-      <DependentUpon>cust_sch.xsd</DependentUpon>
-    </None>
-    <None Include="cust_sch.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="cust_sch.xss">
-      <DependentUpon>cust_sch.xsd</DependentUpon>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
