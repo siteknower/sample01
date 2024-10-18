@@ -47,7 +47,7 @@ namespace StnwSampleCS02
             dt.Rows.Add("AXEIS", "Pedro Alvarez", "México D.F.", "Mexico");
             dt.Rows.Add("BENOI", "Anna Tóth", "Szeged", "Hungary");
             dt.Rows.Add("CAZLE", "Jan Eriksson", "Mannheim", "Sweden");
-            dt.Rows.Add("DRFOS", "Giulia Donatelli", "Milano", "Italia");
+            dt.Rows.Add("DRFIS", "Giulia Donatelli", "Milano", "Italia");
             return dsCustomers;
         }
 
